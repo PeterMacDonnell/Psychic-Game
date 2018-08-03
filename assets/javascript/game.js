@@ -33,11 +33,10 @@ document.onkeyup = function (hasBeenPressed) {
 
     //I created this fucntion to reset the amount of guesses back to 10 when they ran out while adding 1 to the loss counter. I couldn't figure out why it didn't work.
     var reset = function(){
-        if(guessesLeft =0){
-            losses++;
-            guessesLeft = 11;
+       console.log("resetting game")
+        losses++;
+        guessesLeft = 11;
             
-        }
     }
 
 
