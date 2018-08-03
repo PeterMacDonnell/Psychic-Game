@@ -1,0 +1,21 @@
+
+
+
+body {
+    background-image: url("blastoise.jpg");
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+}
+
+#scoreboard{
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+}
